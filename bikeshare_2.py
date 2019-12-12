@@ -39,8 +39,6 @@ def get_filters():
 
 
 
-
-
     day = ''
     while day not in days and day != 'all':
         if month != 'all':
