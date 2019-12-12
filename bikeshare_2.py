@@ -24,7 +24,7 @@ def get_filters():
     city = ''
     while city not in CITY_DATA.keys():
 
-        print("which city do you want to see the data: \n")
+        print("choose which city  you want to see the data: \n")
         city = input('[chicago, new york city , washington]: ').lower()
         print()
 
