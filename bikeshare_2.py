@@ -24,11 +24,9 @@ def get_filters():
     city = ''
     while city not in CITY_DATA.keys():
 
-        print("which city do you want to see the data: \n")
+        print("choose which city  you want to see the data: \n")
         city = input('[chicago, new york city , washington]: ').lower()
         print()
-
-
 
 
     month = ''
@@ -36,8 +34,6 @@ def get_filters():
         print('which month do you want to see the data: \n')
         month = input('[all, january, february, march, april, may, june]: ').lower()
         print()
-
-
 
 
 
