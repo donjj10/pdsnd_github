@@ -2,10 +2,10 @@
 12/12/2019
 
 ### Project Title
-bikeshare
+bikeshare Data analysis
 
 ### Description
-This was the project for the Python section of Udacity's Programming for Data Science nano.
+This was the project for the Python section of Udacity's Programming for Data Science nanodegree.
 
 ### Files used
 chicago.csv [provided]
