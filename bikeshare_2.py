@@ -29,8 +29,6 @@ def get_filters():
         print()
 
 
-
-
     month = ''
     while month not in months and month != 'all':
         print('which month do you want to see the data: \n')
