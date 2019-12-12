@@ -5,7 +5,7 @@
 bikeshare
 
 ### Description
-Describe what your project is about and what it does
+This was the project for the Python section of Udacity's Programming for Data Science nano.
 
 ### Files used
 Include the files used
